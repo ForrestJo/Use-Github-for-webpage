@@ -1,0 +1,66 @@
+Internet Explorer，是美国微软公司推出的一款网页浏览器。原称Microsoft Internet Explorer(6版本以前)和Windows Internet Explorer(7、8、9、10、11版本)，简称IE。在IE7以前，中文直译为“网络探路者”，但在IE7以后官方便直接俗称"IE浏览器"。
+
+2015年3月微软确认将放弃IE品牌。[1]  转而在windows 10上，Microsoft Edge取代了。微软于2015年10月宣布2016年1月起停止支持老版本IE浏览器[2]  
+
+
+IE开发计划开始于1994年夏天，微软为抵抗当时主流的网景浏览器（Netscape Navigator），要在Windows中开发适合自己的浏览器。但微软并没有时间从零开始，因此微软和Spyglass合作，于是IE从早期一款商业性的专利网页浏览器Spyglass Mosaic派生出来，虽然Spyglass Mosaic与NCSA Mosaic(首款应用得最广泛的网页浏览器)甚为相似，但Spyglass Mosaic则相对地较不出名并使用了NCSA Mosaic少量的源代码。
+
+
+
+Mozilla Firefox，中文俗称“火狐”（正式缩写为Fx或fx[1]  ，非正式缩写为FF），是一个自由及开放源代码网页浏览器，使用Gecko排版引擎，支持多种操作系统，如Windows、Mac OS X及GNU/Linux[2]  等。该浏览器提供了两种版本，普通版和ESR（Extended Support Release，延长支持）版，ESR版本是 Mozilla 专门为那些无法或不愿每隔六周就升级一次的企业打造。Firefox ESR 版的升级周期为 42 周，而普通 Firefox 的升级周期为 6 周。
+
+据2013年8月浏览器统计数据，Firefox在全球网页浏览器市占率76%至81%，用户数在各网页浏览器中排名第三，全球估计有6450万位用户。在印度尼西亚、德国和波兰的占有率最高，分别为97.84%、86.41%和84.31%。
+
+
+
+Google Chrome，又称Google浏览器，是一个由Google（谷歌）公司开发的网页浏览器。该浏览器是基于其他开源软件所撰写，包括WebKit，目标是提升稳定性、速度和安全性，并创造出简单且有效率的使用者界面。软件的名称是来自于称作Chrome的网络浏览器图形使用者界面（GUI）。软件的beta测试版本在2008年9月2日发布，提供50种语言版本，有Windows、Mac OS X、Linux、Android、以及iOS版本提供下载
+
+
+Opera浏览器，是一款挪威Opera Software ASA公司制作的支持多页面标签式浏览的网络浏览器，是跨平台浏览器可以在Windows、Mac和Linux三个操作系统平台上运行。Opera浏览器创始于1995年4月，到2015年8月6日，官方发布的个人电脑用的最新版本为Opera31。
+
+Opera浏览器因为它的快速、小巧和比其他浏览器更佳的
+
+Opera浏览器基本界面
+Opera浏览器基本界面 
+标准兼容性获得了国际上的最终用户和业界媒体的承认，并在网上受到很多人的推崇。OperaSoftware开发的Opera浏览器是一款适用于各种平台、操作系统和嵌入式网络产品的高品质、多平台产品，opera浏览器不同于其他浏览器的特点有：
+Opera支持多种操作系统，如Windows、Linux、Mac、FreeBSD、Solaris、BeOS、OS/2、QNX等，此外，Opera还有手机用的版本，如在WindowsMobile和Android手机上安装的OperaMobile和在JAVA上的OperaMini，早在2006年更与Nintendo签下合约，提供NDS及Wii游乐器Opera浏览器软件；也支持多语言，包括简体中文和繁体中文。
+
+
+Safari
+Safari，是苹果计算机的最新操作系统Mac OS X中的浏览器，使用了KDE的KHTML作为浏览器的运算核心。
+
+Safari,苹果计算机的最新操作系统Mac OS X中新的浏览器，用来取代之前的Internet ExplorerforMac。Safari使用了KDE的KHTML作为浏览器的计算核心。 该浏览器已支持Windows平台，但是与运行在Mac OS X上的safari相比，有些功能出现丢失。Safari也是iPhone手机、iPodTouch、iPad平板电脑中iOS指定默认浏览器。
+
+Safari 是一款浏览器、一个平台，也是对锐意创新的公开邀请。无论在 Mac、PC 或 iPod touch 上运行，Safari 都可提供极致愉悦的网络体验方式，更不断地改写浏览器的定义。
+
+Safari 以惊人速度渲染网页。与 Mac、PC 及 iPod touch 完美兼容。让最爱网站一目了然。聪明的它还会检查拼写和语法。
+
+苹果公司自己的内核，也是苹果的Safari浏览器使用的内核。 使用Webkit引擎，包含WebCore排版引擎及JavaScriptCore解析引擎，均是从KDE的KHTML及KJS引擎衍生而来，它们都是自由软件，在GPL条约下授权，同时支持BSD系统的开发。所以Webkit也是自由软件，同时开放源代码。在安全方面不受IE、Firefox的制约，所以Safari浏览器在国内还是很安全的。
+
+限于Mac OS X的使用不广泛和Safari浏览器曾经只是Mac OS X的专属浏览器，这个内核本身应该说市场范围并不大；但似乎根据最新的浏览器调查表明，该浏览器的市场甚至已经超过了Opera的Presto了——当然这一方面得益于苹果转到x86架构之后的人气暴涨，另外也是因为Safari 3终于推出了Windows版的缘故吧。Mac下还有OmniWeb、Shiira等人气很高的浏览器。
+
+google的chrome也使用webkit作为内核。　WebKit 内核在手机上的应用也十分广泛，例如 Google 的手机Gphone、 Apple 的 iPhone， Nokia’s Series 60 browser 等所使用的 Browser 内核引擎，都是基于 WebKit。
+
+
+
+
+
+
+苹果浏览器
+Apple浏览器Safari的Windows版本，号称世界排名第三，占4.9%的市场份额，Apple发布Safari的Windows版本目标是赢得更多的浏览器市场份额。
+Apple发布最快Windows平台浏览器，根据Apple所说针对Windows平台的Safari浏览器称为Safari 4，这是目前在windows平台上速度最快的浏览器，业界标准iBech测试显示，Safari浏览网页速度是IE 7的两倍，Firefox 2的1.6倍。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
